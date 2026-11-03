@@ -1,7 +1,5 @@
 # 💻 Object-Oriented Programming (OOPS) Lab
 
-Welcome to my **OOPS Lab repository using C++**! 🚀
-
 This repository contains C++ programs and practical exercises related to Object-Oriented Programming (OOP). The programs are organized topic-wise to make learning, practicing, and revising OOP concepts easier.
 
 The main objective of this repository is to understand programming concepts through practical implementation and improve problem-solving skills using C++.
